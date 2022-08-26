@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "whoami_33",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "name": "teclado",
+      "price": "119",
+      "id": 5
+    },
+    {
+      "name": "isaac",
+      "price": "2",
+      "id": 6
+    },
+    {
+      "name": "alex",
+      "price": "12",
+      "id": 7
+    },
+    {
+      "name": "whoami_33",
+      "price": "2",
+      "id": 8
+    },
+    {
+      "name": "whoami_33",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "whoami_33",
+      "price": "2222",
+      "id": 10
+    },
+    {
+      "name": "olaaaa",
+      "price": "3333",
+      "id": 11
+    },
+    {
+      "name": "aaaa",
+      "price": "333",
+      "id": 12
+    },
+    {
+      "name": "isaac",
+      "price": "222",
+      "id": 13
+    },
+    {
+      "name": "amanda",
+      "price": "199",
+      "id": 14
+    },
+    {
+      "name": "amanda",
+      "price": "199",
+      "id": 15
+    },
+    {
+      "name": "amanda",
+      "price": "199",
+      "id": 16
+    },
+    {
+      "name": "amanda",
+      "price": "199",
+      "id": 17
+    },
+    {
+      "name": "isaac",
+      "price": "22",
+      "id": 18
+    },
+    {
+      "name": "isaac",
+      "price": "22",
+      "id": 19
+    },
+    {
+      "name": "isaac",
+      "price": "33",
+      "id": 20
+    },
+    {
+      "name": "aww",
+      "price": "33",
+      "id": 21
+    },
+    {
+      "name": "ola",
+      "price": "3",
+      "id": 22
+    },
+    {
+      "name": "ollaaaa",
+      "price": "3333333",
+      "id": 23
+    },
+    {
+      "name": "ola de novo",
+      "price": "14444",
+      "id": 24
+    }
+  ]
+}
